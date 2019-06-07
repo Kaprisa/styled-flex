@@ -1,0 +1,13 @@
+{
+  "name": "styled-flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Kseniya <kaprisa57@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "flexible-styled-components-modifiers": "0.0.1",
+    "styled-components": "^4.3.1"
+  }
+}
